@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_testthree.test script</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test script</name>
+        <script><![CDATA[gs.addErrorMessage("hey there")]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-06-26 20:03:52</sys_created_on>
+        <sys_id>0bc0e699b7123300cf70e2b9de11a9ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test script</sys_name>
+        <sys_package display_value="testthree" source="sn_testthree">c146d215b7123300cf70e2b9de11a96f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="testthree">c146d215b7123300cf70e2b9de11a96f</sys_scope>
+        <sys_update_name>sys_script_include_0bc0e699b7123300cf70e2b9de11a9ce</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:03:52</sys_updated_on>
+    </sys_script_include>
+</record_update>
